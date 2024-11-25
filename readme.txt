@@ -24,3 +24,4 @@ git checkout -b dev   #创建并切换分支
 
 git branch#查看当前分支
 
+git merge dev  #将其他分支合并到当前分支
