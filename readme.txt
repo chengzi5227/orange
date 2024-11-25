@@ -3,7 +3,7 @@
 33333
 
 git add xxx.txt
-git submit  -m "update content"
+git commit  -m "update content"
 git log
 git reflog
 cat xxx.txt
