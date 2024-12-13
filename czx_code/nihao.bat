@@ -1,0 +1,1 @@
+"D:\software\python3121\python.exe" C:\Users\admin\Desktop\czx_py_test\SendEmail\SendEmail.py > d:\niaho123.log 2>&1
